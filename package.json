@@ -1,0 +1,8 @@
+{
+  "name": "painless-state",
+  "version": "1.0.0",
+  "description": "simple state manager to add, read, update and delete your data",
+  "author": "Hamza Errechydy",
+  "license": "ISC", 
+  "type": "module"
+}
