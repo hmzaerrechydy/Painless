@@ -3,6 +3,19 @@
   "version": "1.0.0",
   "description": "simple state manager to add, read, update and delete your data",
   "author": "Hamza Errechydy",
-  "license": "ISC", 
-  "type": "module"
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "browserify-fs": "^1.0.0",
+    "express": "^4.18.2",
+    "level-filesystem": "^1.2.0",
+    "level-fs": "^0.11.2"
+  },
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }

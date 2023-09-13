@@ -1,1 +1,7 @@
-{"data":{"fruit":"orange"}}
+{
+    "data":{
+        "fruit": "orange",
+        "drink": "coffee"
+    }
+
+}
